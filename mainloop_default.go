@@ -9,7 +9,7 @@ package walk
 import (
 	"unsafe"
 
-	"github.com/lxn/win"
+	"github.com/Soltik/win"
 )
 
 func (fb *FormBase) mainLoop() int {

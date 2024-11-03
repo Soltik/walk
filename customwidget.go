@@ -9,7 +9,7 @@ package walk
 import (
 	"unsafe"
 
-	"github.com/lxn/win"
+	"github.com/Soltik/win"
 )
 
 const customWidgetWindowClass = `\o/ Walk_CustomWidget_Class \o/`

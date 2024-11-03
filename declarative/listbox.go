@@ -9,8 +9,8 @@ package declarative
 import (
 	"errors"
 
-	"github.com/lxn/walk"
-	"github.com/lxn/win"
+	"github.com/Soltik/walk"
+	"github.com/Soltik/win"
 )
 
 type ListBox struct {

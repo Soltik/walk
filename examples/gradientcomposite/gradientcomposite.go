@@ -5,8 +5,8 @@
 package main
 
 import (
-	"github.com/lxn/walk"
-	. "github.com/lxn/walk/declarative"
+	"github.com/Soltik/walk"
+	. "github.com/Soltik/walk/declarative"
 )
 
 func main() {

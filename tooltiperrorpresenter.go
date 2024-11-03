@@ -7,7 +7,7 @@
 package walk
 
 import (
-	"github.com/lxn/win"
+	"github.com/Soltik/win"
 )
 
 var ValidationErrorEffect WidgetGraphicsEffect

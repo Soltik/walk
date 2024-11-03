@@ -10,7 +10,7 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/lxn/win"
+	"github.com/Soltik/win"
 )
 
 type Image interface {

@@ -9,7 +9,7 @@ package walk
 import (
 	"math"
 
-	"github.com/lxn/win"
+	"github.com/Soltik/win"
 )
 
 type ImageViewMode int

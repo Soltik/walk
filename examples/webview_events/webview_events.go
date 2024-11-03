@@ -9,8 +9,8 @@ import (
 	"log"
 	"strings"
 
-	"github.com/lxn/walk"
-	. "github.com/lxn/walk/declarative"
+	"github.com/Soltik/walk"
+	. "github.com/Soltik/walk/declarative"
 )
 
 type MainWin struct {
@@ -50,7 +50,7 @@ func NewMainWin() (*MainWin, error) {
 			WebView{
 				AssignTo:                  &mainWin.wv,
 				Name:                      "wv",
-				URL:                       "https://github.com/lxn/walk",
+				URL:                       "https://github.com/Soltik/walk",
 				ShortcutsEnabled:          true,
 				NativeContextMenuEnabled:  true,
 				OnNavigating:              mainWin.webView_OnNavigating,

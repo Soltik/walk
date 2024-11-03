@@ -7,7 +7,7 @@
 package declarative
 
 import (
-	"github.com/lxn/walk"
+	"github.com/Soltik/walk"
 )
 
 type NumberLabel struct {

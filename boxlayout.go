@@ -11,7 +11,7 @@ import (
 	"sort"
 	"sync"
 
-	"github.com/lxn/win"
+	"github.com/Soltik/win"
 )
 
 type Orientation byte

@@ -12,7 +12,7 @@ import (
 	"time"
 	"unsafe"
 
-	"github.com/lxn/win"
+	"github.com/Soltik/win"
 )
 
 type DateEdit struct {

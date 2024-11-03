@@ -11,7 +11,7 @@ import (
 )
 
 import (
-	"github.com/lxn/win"
+	"github.com/Soltik/win"
 )
 
 type Cursor interface {
